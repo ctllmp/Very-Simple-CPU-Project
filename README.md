@@ -2,8 +2,7 @@
 (ISA means Instruction Set Architecture)
 
 16-bit Instruction Word (IW) of ProjectCPU:
-
-                                IW
+				IW
                |----------------------------------
   bit position |15    13| 12                    0|
                |----------------------------------
